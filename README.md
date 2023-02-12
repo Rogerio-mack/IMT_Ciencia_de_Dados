@@ -100,7 +100,7 @@
 *	34	31/10/2023	Auto ML
 *	35	06/11/2023	Aprendizado de Máquina na Nuvem I
 *	35	07/11/2023	Aprendizado de Máquina na Nuvem II
-### Estudos de Caso
+### Estudos de Caso e Projetos
 *	36	13/11/2023	Estudo de Caso: Sentiment Analysis
 *	36	14/11/2023	Estudo de Caso Aberto
 *	37	20/11/2023	**FERIADO CONCIÊNCIA NEGRA**
