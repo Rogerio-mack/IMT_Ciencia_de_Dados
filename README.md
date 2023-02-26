@@ -17,7 +17,7 @@
 *	2	14/02/2023	[Introdução ao Colab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Introducao_ao_Colab.ipynb) ([solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Introducao_ao_Colab_solucao.ipynb))
 *	3	20/02/2023	**CARNAVAL**
 *	3	21/02/2023	**CARNAVAL**
-*	4	27/02/2023	Standard Process for Data Mining
+*	4	27/02/2023	[Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Standard_Process_for_Data_Mining.ipynb)
 ### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 *	4	28/02/2023	Pandas DataFrames e Séries
 *	5	06/03/2023	Pandas Seleções de Dados I
