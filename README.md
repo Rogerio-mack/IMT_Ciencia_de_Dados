@@ -82,12 +82,14 @@ Pode enviar uma mensagem para mim no rogerio.oliveira@maua.br
 *	4	27/02/2023	[Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Standard_Process_for_Data_Mining.ipynb)
 ### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 *	4	28/02/2023	[Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb) 
-| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos_solucao.ipynb)
+*	5	06/03/2023	[Pandas Seleções de Dados I](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
 | [**solução**](https://colab.research.google.com)
-| [Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_insurance.ipynb)
+*	5	07/03/2023	[Pandas Seleções de Dados II](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_2.ipynb)
 | [**solução**](https://colab.research.google.com)
-*	5	06/03/2023	Pandas Seleções de Dados I
-*	5	07/03/2023	Pandas Seleções de Dados II
 *	6	13/03/2023	Pandas Transformações e Joins
 *	6	14/03/2023	Visualização de Dados
 *	7	20/03/2023	Matplotlib Tendências e Distribuições
