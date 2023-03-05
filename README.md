@@ -75,20 +75,23 @@ Pode enviar uma mensagem para mim no rogerio.oliveira@maua.br
 
 ### Introdução, IA $\times$ Ciência de Dados, CRISP DM, Colab
 *	2	13/02/2023	[Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
+
 *	2	14/02/2023	[Introdução ao Colab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Introducao_ao_Colab.ipynb) 
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Introducao_ao_Colab_solucao.ipynb)
 *	3	20/02/2023	**CARNAVAL**
 *	3	21/02/2023	**CARNAVAL**
 *	4	27/02/2023	[Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Standard_Process_for_Data_Mining.ipynb)
+	
 ### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 *	4	28/02/2023	[Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb) 
 | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos_solucao.ipynb)
+
 *	5	06/03/2023	[Pandas Seleções de Dados I](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
-| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_0.ipynb)
 | [**solução**](https://colab.research.google.com)
 *	5	07/03/2023	[Pandas Seleções de Dados II](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
-| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_2.ipynb)
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
 | [**solução**](https://colab.research.google.com)
 *	6	13/03/2023	Pandas Transformações e Joins
 *	6	14/03/2023	Visualização de Dados
