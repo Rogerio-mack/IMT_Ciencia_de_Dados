@@ -4,67 +4,6 @@
 # Ciência de Dados
 **ECM514** Prof rogerio.oliveira@maua.br
 
-<p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCF.png" width="40%" align="left"/>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-**Apenas aproveitando o espaço aqui da disciplina para esta divulgação.**
-
-Aqui uma oportunidade de participar do **Google Cloud Learning! Edição 2023**. O Google Cloud Learning é um curso fundamental para todos que querem aprender e praticar os principais conceitos dos serviços em nuvem com uma das plataformas mais usadas no mercado.   
-
-Os alunos que concluírem no prazo o treinamento vão receber um convite para participar em uma sessão de **mentoria especial com um Googler**. E os que adquirirem os 4 selos de habilidades (skill badges) do treinamento estarão aptos a participar na **Feira de Empregos**, e conectar-se com +20 parceiros do Google Cloud que estão com vagas abertas! É demais, não é? Participam ainda dessa campanha dezenas de outras Universidades e centenas de estudantes como você, e você não vai querer ficar de fora!
-
-Acesse os links abaixo (no texto ou o link direto) para ter mais informações sobre os conteúdos do Google Cloud Learning, a agenda, como fazer as inscrições etc.
-
-![imagem](https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/GCCF_SM_Students_YT_BR.gif)
-
-
-## Chamada
-•	Clique [aqui](https://github.com/Rogerio-mack/GCF/blob/main/GCF_files/GCCF-Academy-5P-1_STUDENTS%20(1).pdf) para acessar a Chamada para o Google Cloud Foundations Academy 2023, e veja detalhes sobre a academia
-
-<p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_chamada.png" width="20%" align="left"/>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Inscrições
-•	Clique [aqui](https://docs.google.com/forms/d/1XcmzcLHf8-utm8kWJWizAyVtvWCyY0GFqI_ERxjdr_0/viewform?edit_requested=true) para sua **inscrição, elas ainda estão abertas**, e fique atento ao seu e-mail de cadastro para receber a programação. O Kick Off para os alunos acontece online em 08 de março, 18:00h – 19:20h, e você receberá o link no seu e-mail de cadastro.
-
-<p>
-  <img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/qrcode_incricao.png" width="20%" align="left"/>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Dúvidas?
-Pode enviar uma mensagem para mim no rogerio.oliveira@maua.br
-
----
-
-
 ## Turmas e Horários
 
 * Segundas-feiras **5o L2** 07:40-09:20h **5o L1** 09:30-11:10h
