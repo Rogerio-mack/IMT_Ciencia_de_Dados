@@ -32,7 +32,13 @@
 *	5	07/03/2023	[Pandas Seleções de Dados II](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
 | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
 | [**solução**](https://colab.research.google.com)
-*	6	13/03/2023	Pandas Transformações e Joins
+*	6	13/03/2023	[Pandas Transformações e Joins](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_combine.ipynb)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_combine_reshape_yahoo.ipynb)
+| [**solução**](https://colab.research.google.com)
+| [Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_groupby.ipynb)
+| [**solução**](https://colab.research.google.com)
+| [Exercício 3](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_merge_join_gapminder.ipynb)
+| [**solução**](https://colab.research.google.com)
 *	6	14/03/2023	Visualização de Dados
 *	7	20/03/2023	Matplotlib Tendências e Distribuições
 *	7	21/03/2023	Matplotlib Proporções e Relações 
