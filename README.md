@@ -23,23 +23,25 @@
 	
 ### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 *	4	28/02/2023	[Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb) 
-| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos_solucao.ipynb)
 
 *	5	06/03/2023	[Pandas Seleções de Dados I](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
-| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_0.ipynb)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_0.ipynb)
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_0_solucao.ipynb)
 *	5	07/03/2023	[Pandas Seleções de Dados II](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
-| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1.ipynb)
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_1_solucao.ipynb)
 *	6	13/03/2023	[Pandas Transformações e Joins](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb)
 | [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_combine_reshape_yahoo.ipynb)
-| [**solução**](https://colab.research.google.com)
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_combine_reshape_yahoo_solucao.ipynb)
 | [Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_merge_join_gapminder.ipynb)
-| [**solução**](https://colab.research.google.com)
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_merge_join_gapminder_solucao.ipynb)
 | [Exercício 3](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_groupby.ipynb)
-| [**solução**](https://colab.research.google.com)
-*	6	14/03/2023	Visualização de Dados
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_groupby_solucao.ipynb)
+*	6	14/03/2023	[Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_matplotlib1.ipynb)
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_matplotlib1_solucao.ipynb)
 *	7	20/03/2023	Matplotlib Tendências e Distribuições
 *	7	21/03/2023	Matplotlib Proporções e Relações 
 *	8	27/03/2023	Exploratory Data Analysis e Seaborn
