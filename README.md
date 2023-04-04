@@ -46,7 +46,9 @@
 | [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_matplotlib2.ipynb)
 | [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_matplotlib2_solucao.ipynb) 
 | [Extra](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Smooth_curves.ipynb) 
-*	7	21/03/2023	Matplotlib Proporções e Relações 
+*	7	21/03/2023	[Matplotlib Proporções e Relações](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/c5_parte_1.html)
+| [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_distribution.ipynb)
+| [**solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_distribution_solucao.ipynb) 
 *	8	27/03/2023	Exploratory Data Analysis e Seaborn
 *	8	28/03/2023	[**Projeto Semestral**](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Projeto_I.ipynb)
 ### Aprendizado de Máquina Supervisionado, Scikit-Learn, Regressão e Classificação
