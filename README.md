@@ -12,7 +12,7 @@
 
 ## Programação
 
-### Introdução, IA $\times$ Ciência de Dados, CRISP DM, Colab
+#### Introdução, IA $\times$ Ciência de Dados, CRISP DM, Colab
 
 [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
@@ -21,7 +21,7 @@
 
 [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Standard_Process_for_Data_Mining.ipynb)
 	
-### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
+#### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 
 [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_I.ipynb) 
 | [Exercício 1](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pandas_ex_arquivos.ipynb)
@@ -58,25 +58,29 @@
 
 Exploratory Data Analysis e Seaborn |  [Prático de Distribuições e Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Practical_Distributions_HTests.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_hipoteses.ipynb)
 
-### Aprendizado de Máquina Supervisionado, Scikit-Learn, Regressão e Classificação
+#### Aprendizado de Máquina Supervisionado, Scikit-Learn, Regressão e Classificação
 
 Aprendizado de Máquina Supervisionado
 
 Scikit-Learn Regressão Linear
 
-### Seleção de Modelos e Transformações (Preparação dos Dados)
+#### Seleção de Modelos e Transformações (Preparação dos Dados)
 
-### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
+#### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
 
-### Outros modelos, Séries Temporais e Modelos Neurais
+#### Outros modelos, Séries Temporais e Modelos Neurais
 
-### Big Data e seus Eco-Sitemas: Hadoop, Mapreduce, Hive
+#### Big Data e seus Eco-Sitemas: Hadoop, Mapreduce, Hive
 
-### PySpark, pipelines e ingestão de dados
+#### PySpark, pipelines e ingestão de dados
 
-### Auto ML e Serviços Aprendizado de Máquina na Nuvem
+#### Auto ML e Serviços Aprendizado de Máquina na Nuvem
 
-### Estudos de Caso e Projetos
+#### Estudos de Caso e Projetos
+
+<br>
+<br>
+<br>
 
 ## Projeto e Avaliações, Datas Importantes
 
