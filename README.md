@@ -58,8 +58,6 @@
 
 Exploratory Data Analysis e Seaborn |  [Prático de Distribuições e Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Practical_Distributions_HTests.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_hipoteses.ipynb)
 
-[**Projeto Semestral**](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Projeto_I.ipynb)
-
 ### Aprendizado de Máquina Supervisionado, Scikit-Learn, Regressão e Classificação
 
 Aprendizado de Máquina Supervisionado
@@ -79,6 +77,18 @@ Scikit-Learn Regressão Linear
 ### Auto ML e Serviços Aprendizado de Máquina na Nuvem
 
 ### Estudos de Caso e Projetos
+
+## Projeto e Avaliações, Datas Importantes
+
+[**Projeto Semestral**](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Projeto_I.ipynb)
+
+02/05/2023 Prévia dos Projetos
+
+05/06/2023 Apresentação dos Projetos I
+
+06/06/2023 Apresentação dos Projetos II
+
+12/06/2023 SEMANA DE AVALIAÇÃO SEMESTRAL
 
 ## Avaliação
 
