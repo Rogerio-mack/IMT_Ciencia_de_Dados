@@ -112,5 +112,7 @@ Scikit-Learn Regressão Linear
 
 * Oliveira, R. (2022). [**Visualizacao de Dados em Python**](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) ISBN: 978-65-5545-511-3. [Editora Mackenzie](https://www.mackenzie.br/editora/livro/n/a/i/visualizacao-de-dados-com-python), [Amazon](https://www.amazon.com.br/VISUALIZA%C3%87%C3%83O-DADOS-PYTHON-ROGERIO-OLIVEIRA/dp/655545511X) ou [Martins Fontes](https://www.martinsfontespaulista.com.br/visualizacao-de-dados-com-python-997336/p)
 
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width="160"/>
 
+* Wickham, H., & Grolemund, G. (2016). [**R for data science: import, tidy, transform, visualize, and model data**](https://r4ds.had.co.nz/index.html) O'Reilly Media, Inc.
 
