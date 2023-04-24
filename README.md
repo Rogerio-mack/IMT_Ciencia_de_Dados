@@ -58,7 +58,8 @@
 
 [Prático de Distribuições e Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Practical_Distributions_HTests.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ex_hipoteses.ipynb)
 
-[Exploratory Data Analysis](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_EDA.ipynb)    
+[Exploratory Data Analysis](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_EDA.ipynb)   
+| [Extra: linha de tendência e heatmap](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_heatmap_.ipynb)
 
 
 #### Aprendizado de Máquina Supervisionado, Scikit-Learn, Regressão e Classificação
