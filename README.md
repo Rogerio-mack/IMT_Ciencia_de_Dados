@@ -65,7 +65,8 @@
 
 [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ML_introducao.ipynb)
 
-[Modelo de Regressão Linear, `statsmodel`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ML_Regressao.ipynb)
+[Modelo de Regressão Linear, `statsmodel`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ML_Regressao.ipynb) | 
+[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Regressao.ipynb)
 
 #### Seleção de Modelos e Transformações (Preparação dos Dados)
 
