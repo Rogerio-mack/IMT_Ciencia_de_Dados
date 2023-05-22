@@ -68,7 +68,7 @@
 [Modelo de Regressão Linear, `statsmodel`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ML_Regressao.ipynb) | 
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Regressao.ipynb) |
 [Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex.ipynb) (*Moodle*) |
-[Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex_solucao.ipynb)  
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex_solucao.ipynb)  
 
 [Classificação, Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_RegressaoLogistica.ipynb) | 
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) 
