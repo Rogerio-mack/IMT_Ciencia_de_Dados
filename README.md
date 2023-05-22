@@ -71,7 +71,8 @@
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex_solucao.ipynb)  
 
 [Classificação, Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_RegressaoLogistica.ipynb) | 
-[Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) 
+[Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) |
+[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Logistica_ex.ipynb) (*Moodle*)
 
 #### Seleção de Modelos e Transformações (Preparação dos Dados)
 
