@@ -74,6 +74,8 @@
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) |
 [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Logistica_ex.ipynb) (*Moodle*)
 
+[Classificação, K-Vizinhos mais Próximos e Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Knn_Metricas.ipynb)
+
 #### Seleção de Modelos e Transformações (Preparação dos Dados)
 
 #### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
