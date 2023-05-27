@@ -67,15 +67,16 @@
 
 [Modelo de Regressão Linear, `statsmodel`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ML_Regressao.ipynb) | 
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Regressao.ipynb) |
-[Exercício 2](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex.ipynb) (*Moodle*) |
+[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex.ipynb) (*Moodle*) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Regressao_ex_solucao.ipynb)  
 
 [Classificação, Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_RegressaoLogistica.ipynb) | 
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) |
-[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Logistica_ex.ipynb) (*Moodle*)
+[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Logistica_ex.ipynb) | (*Solução no Moodle*)
 
 [Classificação, K-Vizinhos mais Próximos e Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Knn_Metricas.ipynb)
-
+[Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb) |
+[Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Metricas_ex.ipynb) | (*Solução no Moodle*)
 #### Seleção de Modelos e Transformações (Preparação dos Dados)
 
 #### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
@@ -100,11 +101,9 @@
 
 02/05/2023 Prévia dos Projetos
 
-05/06/2023 Apresentação dos Projetos I
+05/06/2023 SEMANA DE AVALIAÇÃO SEMESTRAL
 
-06/06/2023 Apresentação dos Projetos II
-
-12/06/2023 SEMANA DE AVALIAÇÃO SEMESTRAL
+12/06/2023 Apresentação dos Projetos (Data e Formato à confirmar)
 
 ## Avaliação
 
