@@ -77,6 +77,9 @@
 [Classificação, K-Vizinhos mais Próximos e Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Knn_Metricas.ipynb)
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb) |
 [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Metricas_ex.ipynb) | (*Solução no Moodle*)
+
+#### [ROTEIRO DE ESTUDOS P1](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Roteiro_de_Estudos_P1.md)  
+
 #### Seleção de Modelos e Transformações (Preparação dos Dados)
 
 #### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
@@ -107,8 +110,8 @@
 
 ## Avaliação
 
-* S1 = 0.6 P1 + 0.4 Projeto e Atividades
-* S2 = 0.6 P2 + 0.4 Projeto e Atividades
+* S1 = 0.5 P1 + 0.5 (0.5 Projeto + 0.5 Atividades)
+* S2 = 0.5 P2 + 0.5 (0.5 Projeto + 0.5 Atividades)
 * Final = ( S1 + S2 )/2
 			
 ## Bibliografia Complementar
