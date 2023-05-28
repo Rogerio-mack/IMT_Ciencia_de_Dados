@@ -81,6 +81,21 @@
 
 >> Separação dos Conjuntos de Treinamento e Teste
 
+# Organização da Prova
+
+A princípio a prova terá de 20 questões objetivas e 2 tarefas dissertativas ou de entrega, valendo 11 pontos e distribuídas igualmente 4 grupos:
+
+* Questões conceituais gerais
+* Seleção, Transformações e Visualização de Dados 
+* Um problema de Regressão Linear com análise de métricas e seleção de modelos
+* Um problema de Classificação com análise de métricas e seleção de modelos
+
+
+
+
+
+
+
 
 
 
