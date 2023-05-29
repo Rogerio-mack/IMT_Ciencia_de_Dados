@@ -74,7 +74,7 @@
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Logistica_Resolvido.ipynb) |
 [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Logistica_ex.ipynb) | (*Solução no Moodle*)
 
-[Classificação, K-Vizinhos mais Próximos e Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Knn_Metricas.ipynb)
+[Classificação, K-Vizinhos mais Próximos e Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Knn_Metricas.ipynb) |
 [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_Knn_Metricas_Resolvido.ipynb) |
 [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Metricas_ex.ipynb) | (*Solução no Moodle*)
 
