@@ -104,9 +104,9 @@
 
 02/05/2023 Prévia dos Projetos
 
-05/06/2023 SEMANA DE AVALIAÇÃO SEMESTRAL
+05/06/2023 Apresentação dos Projetos 
 
-12/06/2023 Apresentação dos Projetos (Data e Formato à confirmar)
+12/06/2023 SEMANA DE AVALIAÇÃO SEMESTRAL
 
 ## Avaliação
 
