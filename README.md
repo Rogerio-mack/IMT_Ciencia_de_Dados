@@ -80,7 +80,7 @@
 
 #### [ROTEIRO DE ESTUDOS P1](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Roteiro_de_Estudos_P1.md)  
 
-#### [Solução P1, questões envolvendo código](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/P1_solucao.ipynb)
+[Solução P1, questões envolvendo código](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/P1_solucao.ipynb)
 
 <br>
 <br>
