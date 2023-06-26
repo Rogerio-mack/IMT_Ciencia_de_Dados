@@ -80,19 +80,7 @@
 
 #### [ROTEIRO DE ESTUDOS P1](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Roteiro_de_Estudos_P1.md)  
 
-#### Seleção de Modelos e Transformações (Preparação dos Dados)
-
-#### Aprendizado não Supervisionado: Clusterização, PCA, Detecção de Anomalias
-
-#### Outros modelos, Séries Temporais e Modelos Neurais
-
-#### Big Data e seus Eco-Sitemas: Hadoop, Mapreduce, Hive
-
-#### PySpark, pipelines e ingestão de dados
-
-#### Auto ML e Serviços Aprendizado de Máquina na Nuvem
-
-#### Estudos de Caso e Projetos
+#### [Solução P1, questões envolvendo código](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/P1_solucao.ipynb)
 
 <br>
 <br>
