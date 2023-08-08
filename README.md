@@ -90,6 +90,10 @@
 
 07-08.08 [Exercício: Regressão Linear e Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_regressao_scale.ipynb)
 
+<br>
+<br>
+<br>
+
 ## Projeto e Avaliações, Datas Importantes
 
 [**Projeto Semestral**](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Projeto_I.ipynb)
