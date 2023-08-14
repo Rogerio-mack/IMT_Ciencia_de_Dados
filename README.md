@@ -91,7 +91,7 @@
 07-08.08 [Exercício: Regressão Linear e Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_regressao_scale.ipynb) 
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_regressao_scale_solucao.ipynb)
 
-14-15.08 [Estimadores do `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn11.ipynb)
+14-15.08 [Estimadores do `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn_solucao.ipynb)
 
 <br>
