@@ -96,6 +96,9 @@
 | [Exercício: Estimadores](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn2.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn2_solucao.ipynb)
 
+21-22.08 [Árvores de Decisão e Seleção de Atriutos](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
+
+
 <br>
 <br>
 <br>
