@@ -97,7 +97,8 @@
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_estimadores_scikit_learn2_solucao.ipynb)
 
 21-22.08 [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
-
+| [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_DecisionTree_KBest.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_DecisionTree_KBest_solucao.ipynb)
 
 <br>
 <br>
