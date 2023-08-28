@@ -100,6 +100,8 @@
 | [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_DecisionTree_KBest.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Lab_DecisionTree_KBest_solucao.ipynb)
 
+28-29.08 [Random Forest, Seleção de Modelos e Desafio](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_RForest_SelModels_Desafio.ipynb)
+
 <br>
 <br>
 <br>
