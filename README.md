@@ -102,6 +102,8 @@
 
 28-29.08 [Random Forest, Seleção de Modelos e Desafio](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_RForest_SelModels_Desafio.ipynb)
 
+04-05.09 [Pipeline de Classificação](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pipeline_Classificacao.ipynb)
+| [Curva ROC e AUC](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ROC.ipynb)
 <br>
 <br>
 <br>
