@@ -104,6 +104,9 @@
 
 04-05.09 [Pipeline de Classificação](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Pipeline_Classificacao.ipynb)
 | [Curva ROC e AUC](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ROC.ipynb)
+| [CV e GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch.ipynb)
+| [CV e GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch_Lab.ipynb)
+
 <br>
 <br>
 <br>
