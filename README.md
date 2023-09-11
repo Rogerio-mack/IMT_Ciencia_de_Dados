@@ -107,6 +107,7 @@
 | [CV e GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch.ipynb)
 | [CV e GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch_Lab.ipynb)
 
+11-12.09 [Pipeline de Classificação](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/LLM_Python.ipynb)
 <br>
 <br>
 <br>
