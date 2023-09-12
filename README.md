@@ -112,6 +112,8 @@
 | [MLP GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_MLP_GRID_Lab.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_MLP_GRID_Lab_solucao.ipynb)
 
+> [**PROJETO Segundo Semestre**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Projeto_2.ipynb) (*Em grupo, máximo 5 alunos*)
+
 <br>
 <br>
 <br>
