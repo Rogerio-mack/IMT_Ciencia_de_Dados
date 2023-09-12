@@ -106,8 +106,12 @@
 | [Curva ROC e AUC](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_ROC.ipynb)
 | [CV e GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch.ipynb)
 | [CV e GridSearch Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch_Lab.ipynb)
+| [CV e GridSearch Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_CV_GridSearch_Lab_solucao.ipynb)
 
 11-12.09 [LLM Python](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/LLM_Python.ipynb)
+| [MLP GridSearch](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_MLP_GRID_Lab.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_MLP_GRID_Lab_solucao.ipynb)
+
 <br>
 <br>
 <br>
