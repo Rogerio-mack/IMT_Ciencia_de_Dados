@@ -114,6 +114,12 @@
 
 > [**PROJETO Segundo Semestre**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Projeto_2.ipynb) (*Em grupo, máximo 5 alunos*)
 
+25-26.09 [Aprendizado Não Supervisionado - Clustering Kmédias](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Clustering.ipynb)
+
+02-03.10 [Aprendizado Não Supervisionado - Clustering Hierárquico](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TBD.ipynb)
+
+> [**09.10 Visita Bayer**] 9:30h, Visita de profissional da Bayer da área de dados. Juntaremos as turmas para aula de IA no primeiro horário e para a visita no segundo horário. 
+
 <br>
 <br>
 <br>
