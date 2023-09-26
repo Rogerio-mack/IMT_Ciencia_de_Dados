@@ -115,6 +115,7 @@
 > [**PROJETO Segundo Semestre**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Projeto_2.ipynb) (*Em grupo, máximo 5 alunos, entrega prevista para semana de 06.11.*)
 
 25-26.09 [Aprendizado Não Supervisionado - Clustering Kmédias](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Clustering.ipynb)
+| [Kmédias Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Kmedias.ipynb)
 
 02-03.10 [Aprendizado Não Supervisionado - Clustering Hierárquico](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TBD.ipynb)
 
