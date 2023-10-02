@@ -116,8 +116,9 @@
 
 25-26.09 [Aprendizado Não Supervisionado - Clustering Kmédias](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Clustering.ipynb)
 | [Kmédias Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Kmedias.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Kmedias.ipynb)
 
-02-03.10 [Aprendizado Não Supervisionado - Clustering Hierárquico](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TBD.ipynb)
+02-03.10 [Aprendizado Não Supervisionado - Clustering Hierárquico](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_HClust.ipynb)
 
 > [**09.10 Visita Bayer**] 9:30h, Visita de profissional da Bayer da área de dados. Juntaremos as turmas para aula de IA no primeiro horário e para a visita no segundo horário. 
 
