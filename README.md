@@ -121,7 +121,9 @@
 02-03.10 [Aprendizado Não Supervisionado - Clustering Hierárquico](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_HClust.ipynb)
 | [HCluster Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_HClust_Lab.ipynb)
 
+09-10.10 [Acc Cluster e DBSCAN](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_AccClust_DBSCAN.ipynb)
 > [**09.10 Visita Bayer**] 9:30h, Visita de profissional da Bayer da área de dados. Juntaremos as turmas para aula de IA no primeiro horário e para a visita no segundo horário. 
+
 
 <br>
 <br>
