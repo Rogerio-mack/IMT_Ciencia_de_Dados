@@ -12,7 +12,7 @@
 
 ## Programação
 
-#### Introdução, IA $\times$ Ciência de Dados, CRISP DM, Colab
+#### Introdução, IA X Ciência de Dados, CRISP DM, Colab
 
 [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
