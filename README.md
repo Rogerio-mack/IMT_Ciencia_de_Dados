@@ -129,6 +129,8 @@
 16-17.10 [Trabalhando dados texto: **TF-IDF, word embedding**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
 | [TF-IDF Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Sentiment_Analysis_TFIDF.ipynb)
 
+> [Zipf Law (resolvido)](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Zipf_Law_solucao.ipynb)
+
 
 <br>
 <br>
