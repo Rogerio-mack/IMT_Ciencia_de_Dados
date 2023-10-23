@@ -131,6 +131,7 @@
 
 > [Zipf Law (resolvido)](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Zipf_Law_solucao.ipynb)
 
+23-24.10 [PCA](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PCA.ipynb)
 
 <br>
 <br>
