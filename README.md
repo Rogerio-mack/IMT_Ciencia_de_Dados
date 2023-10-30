@@ -137,8 +137,8 @@
 30-31.10 [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python) 
 
 > [Quick Start](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/QuickStart.ipynb)
-[Cap1](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
-[Cap3](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
+| [Cap1](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
+| [Cap3](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
 
 > [ARIMA Lab](https://colab.research.google.com/github/Rogerio-mack/Ling-de-Prog-para-Ciencia-de-Dados/blob/main/IMT_ARIMA.ipynb)
 
