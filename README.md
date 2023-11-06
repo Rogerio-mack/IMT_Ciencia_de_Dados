@@ -138,9 +138,13 @@
 
 > [Quick Start](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/QuickStart.ipynb)
 | [Cap1](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
-| [Cap3](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
+| [Cap3](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap3.ipynb)
 
 > [ARIMA Lab](https://colab.research.google.com/github/Rogerio-mack/Ling-de-Prog-para-Ciencia-de-Dados/blob/main/IMT_ARIMA.ipynb)
+
+06-07.11 [Warmup](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Warmup_TS.ipynb)) 
+| [Cap6 - Aprendizado de Máquina (Séries Temporais)](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap6.ipynb)
+
 
 <br>
 <br>
