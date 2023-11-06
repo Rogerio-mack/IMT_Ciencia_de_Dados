@@ -144,7 +144,7 @@
 
 06-07.11 [Warmup](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Warmup_TS.ipynb)
 
-> [Cap6 - Aprendizado de Máquina (Séries Temporais)](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap6.ipynb)
+> [Cap5 - Aprendizado de Máquina (Séries Temporais)](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb)
 
 
 <br>
