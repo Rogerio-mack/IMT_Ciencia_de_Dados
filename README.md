@@ -147,7 +147,9 @@
 
 > [Cap5 - Aprendizado de Máquina (Séries Temporais)](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb)
 
+> [Lab Time Series & ML](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TimeSeriesWithML.ipynb)
 
+ 
 <br>
 <br>
 <br>
