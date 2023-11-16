@@ -128,11 +128,14 @@
 
 16-17.10 [Trabalhando dados texto: **TF-IDF, word embedding**](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
 | [TF-IDF Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Sentiment_Analysis_TFIDF.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Sentiment_Analysis_TFIDF_solucao.ipynb)
 
 > [Zipf Law (resolvido)](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_Zipf_Law_solucao.ipynb)
 
 23-24.10 [PCA](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PCA.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PCA_solucao.ipynb)
 | [PCA SVD Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PCA_SVD.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PCA_SVD_solucao.ipynb)
 
 30-31.10 [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python) 
 
@@ -140,7 +143,8 @@
 | [Cap1](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap1.ipynb)
 | [Cap3](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap3.ipynb)
 
-> [ARIMA Lab](https://colab.research.google.com/github/Rogerio-mack/Ling-de-Prog-para-Ciencia-de-Dados/blob/main/IMT_ARIMA.ipynb)
+> [ARIMA Lab](https://colab.research.google.com/github/Rogerio-mack//IMT_Ciencia_de_Dados/blob/main/IMT_ARIMA.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack//IMT_Ciencia_de_Dados/blob/main/IMT_ARIMA_solucao.ipynb)
 
 06-07.11 [Warmup](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Warmup_TS.ipynb)
 | [Warmup solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/Warmup_TS_solucao.ipynb)
@@ -148,6 +152,10 @@
 > [Cap5 - Aprendizado de Máquina (Séries Temporais)](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb)
 
 > [Lab Time Series & ML](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TimeSeriesWithML.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TimeSeriesWithML_solucao.ipynb)
+
+13-14.11 [PF Simulado](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PF1.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PF1_solucao.ipynb)
 
  
 <br>
