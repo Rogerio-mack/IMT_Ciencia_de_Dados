@@ -157,6 +157,15 @@
 13-14.11 [PF Simulado](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PF1.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PF1_solucao.ipynb)
 
+
+## Gabarito P2 Lab e Notas finais (antes da substitutiva ou prova final)
+
+[Gabarito P2 Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_PF_solucao.ipynb)
+
+[Notas](https://github.com/Rogerio-mack/IMT_Ciencia_de_Dados/raw/main/data/ECM514%20Notas%20Final.xlsx)
+
+*Lembrando, como comentamos em sala, que as notas das atividades T1 e T2 serão corrigidas no sistema para o os valores de média dos exercícios (0.5) e projeto (0.5) de cada semestre conforme a ementa*.
+
  
 <br>
 <br>
